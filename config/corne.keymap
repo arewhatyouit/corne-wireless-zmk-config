@@ -37,9 +37,9 @@
 
             display-name = "Lower";
             bindings = <
-&kp ESCAPE  &kp GRAVE  &kp DOUBLE_QUOTES  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp PLUS     &kp INS    &kp PAGE_UP      &kp UP_ARROW   &kp PAGE_DOWN     &kp BACKSPACE  &kp DEL
-&kp TILDE   &kp LBKT   &kp RBKT           &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp MINUS    &kp HOME   &kp LEFT_ARROW   &kp DOWN       &kp RIGHT         &kp SEMI       &kp BACKSLASH
-&kp LSHFT   &kp CARET  &kp ASTERISK       &kp AMPS              &kp PIPE               &kp EQUAL    &kp END    &kp PRINTSCREEN  &kp LESS_THAN  &kp GREATER_THAN  &kp SLASH      &kp ENTER
+&kp ESCAPE  &kp GRAVE  &kp DOUBLE_QUOTES  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp PLUS     &kp INS    &kp PAGE_UP      &kp UP_ARROW   &kp PAGE_DOWN     &kp DEL    &kp BACKSPACE
+&kp TILDE   &kp LBKT   &kp RBKT           &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp MINUS    &kp HOME   &kp LEFT_ARROW   &kp DOWN       &kp RIGHT         &kp SEMI   &kp BACKSLASH
+&kp LSHFT   &kp CARET  &kp ASTERISK       &kp AMPS              &kp PIPE               &kp EQUAL    &kp END    &kp PRINTSCREEN  &kp LESS_THAN  &kp GREATER_THAN  &kp SLASH  &kp ENTER
                                           &kp LGUI              &kp SPACE              &kp ENTER    &kp ENTER  &kp SPACE        &kp RIGHT_GUI
             >;
 
@@ -55,7 +55,7 @@
 
             display-name = "Raise";
             bindings = <
-&kp ESCAPE  &kp N1    &kp N2  &kp N3    &kp N4      &kp N5         &kp N6     &kp N7     &kp N8     &kp N9         &kp N0     &kp DELETE
+&kp ESCAPE  &kp N1    &kp N2  &kp N3    &kp N4      &kp N5         &kp N6     &kp N7     &kp N8     &kp N9         &kp N0     &kp BACKSPACE
 &kp TILDE   &kp EXCL  &kp AT  &kp HASH  &kp DOLLAR  &kp PERCENT    &kp CARET  &kp AMPS   &kp ASTRK  &kp SEMICOLON  &kp COLON  &kp MINUS
 &kp LSHFT   &kp F1    &kp F2  &kp F3    &kp F4      &kp F5         &kp F6     &kp F7     &kp COMMA  &kp DOT        &kp FSLH   &kp ENTER
                               &kp LGUI  &kp SPACE   &kp ENTER      &kp RET    &kp SPACE  &kp RALT
