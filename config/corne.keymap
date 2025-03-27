@@ -38,9 +38,9 @@
             display-name = "Lower";
             bindings = <
 &kp ESCAPE  &kp GRAVE  &kp DOUBLE_QUOTES  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp PLUS     &kp INS    &kp PAGE_UP      &kp UP_ARROW   &kp PAGE_DOWN     &kp DEL    &kp BACKSPACE
-&kp TILDE   &kp LBKT   &kp RBKT           &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp MINUS    &kp HOME   &kp LEFT_ARROW   &kp DOWN       &kp RIGHT         &kp COLON  &kp BACKSLASH
+&kp LCTRL   &kp LBKT   &kp RBKT           &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp MINUS    &kp HOME   &kp LEFT_ARROW   &kp DOWN       &kp RIGHT         &kp COLON  &kp BACKSLASH
 &kp LSHFT   &kp CARET  &kp ASTERISK       &kp AMPS              &kp PIPE               &kp EQUAL    &kp END    &kp PRINTSCREEN  &kp LESS_THAN  &kp GREATER_THAN  &kp SLASH  &kp ENTER
-                                          &kp LGUI              &kp SPACE              &kp ENTER    &kp ENTER  &kp SPACE        &kp RIGHT_GUI
+                                          &kp LEFT_ALT          &kp LA(LCTRL)          &kp ENTER    &kp ENTER  &kp SPACE        &kp RIGHT_GUI
             >;
 
             label = "Sym_Nav";
